@@ -1,0 +1,318 @@
+{
+  "images" : [
+    {
+      "filename" : "1024 33.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "1024 27.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "1024 29.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "1024 19.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "1024 22.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "38x38"
+    },
+    {
+      "filename" : "1024 42.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "38x38"
+    },
+    {
+      "filename" : "1024 21.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "1024 41.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "1024 40.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "1024 38.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "1024 39.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "64x64"
+    },
+    {
+      "filename" : "1024 37.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "64x64"
+    },
+    {
+      "filename" : "1024 11.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "68x68"
+    },
+    {
+      "filename" : "1024 10.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "1024 9.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "83.5x83.5"
+    },
+    {
+      "filename" : "1024.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "1024 36.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "1024 35.jpeg",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "16x16"
+    },
+    {
+      "filename" : "1024 34.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "1024 25.jpeg",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "1024 12.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "1024 4.jpeg",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "128x128"
+    },
+    {
+      "filename" : "1024 3.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "1024.jpeg",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "256x256"
+    },
+    {
+      "filename" : "1024 1.jpeg",
+      "idiom" : "mac",
+      "scale" : "1x",
+      "size" : "512x512"
+    },
+    {
+      "filename" : "1024 1.png",
+      "idiom" : "mac",
+      "scale" : "2x",
+      "size" : "512x512"
+    },
+    {
+      "filename" : "1024 32.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "22x22"
+    },
+    {
+      "filename" : "1024 31.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "24x24"
+    },
+    {
+      "filename" : "1024 30.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "27.5x27.5"
+    },
+    {
+      "filename" : "1024 28.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "1024 26.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "30x30"
+    },
+    {
+      "filename" : "1024 24.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "32x32"
+    },
+    {
+      "filename" : "1024 23.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "33x33"
+    },
+    {
+      "filename" : "1024 20.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "1024 18.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "43.5x43.5"
+    },
+    {
+      "filename" : "1024 17.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "44x44"
+    },
+    {
+      "filename" : "1024 16.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "46x46"
+    },
+    {
+      "filename" : "1024 15.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "50x50"
+    },
+    {
+      "filename" : "1024 14.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "51x51"
+    },
+    {
+      "filename" : "1024 13.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "54x54"
+    },
+    {
+      "filename" : "1024 8.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "86x86"
+    },
+    {
+      "filename" : "1024 7.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "98x98"
+    },
+    {
+      "filename" : "1024 6.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "108x108"
+    },
+    {
+      "filename" : "1024 5.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "117x117"
+    },
+    {
+      "filename" : "1024 2.jpeg",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "scale" : "2x",
+      "size" : "129x129"
+    },
+    {
+      "filename" : "1024 2.png",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
